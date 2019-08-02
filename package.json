@@ -1,0 +1,7 @@
+{
+  "name": "drag-label",
+  "version": "1.0.0",
+  "dependencies": {
+    "uglify-es": "git+https://github.com/mishoo/UglifyJS2.git#harmony",
+  }
+}
